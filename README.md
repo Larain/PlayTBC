@@ -1,0 +1,2 @@
+# PlayTBC
+Tracking server status
