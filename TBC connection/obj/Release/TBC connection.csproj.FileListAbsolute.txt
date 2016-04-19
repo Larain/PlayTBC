@@ -1,0 +1,13 @@
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Release\TBC connection.exe.config
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC_connection.TBCconnection.resources
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC_connection.Properties.Resources.resources
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC connection.csproj.GenerateResource.Cache
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Release\TBC connection.exe.manifest
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Release\TBC connection.application
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Release\TBC connection.exe
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Release\TBC connection.pdb
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC connection.exe.manifest
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC connection.application
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC connection.exe
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC connection.pdb
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Release\TBC_connection.Notification.resources

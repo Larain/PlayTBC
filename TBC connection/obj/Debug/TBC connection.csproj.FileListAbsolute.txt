@@ -1,0 +1,12 @@
+c:\users\gostw\onedrive\документы\visual studio 2015\Projects\TBC connection\TBC connection\bin\Debug\TBC connection.exe.config
+c:\users\gostw\onedrive\документы\visual studio 2015\Projects\TBC connection\TBC connection\bin\Debug\TBC connection.exe
+c:\users\gostw\onedrive\документы\visual studio 2015\Projects\TBC connection\TBC connection\bin\Debug\TBC connection.pdb
+c:\users\gostw\onedrive\документы\visual studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC_connection.Properties.Resources.resources
+c:\users\gostw\onedrive\документы\visual studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC connection.csproj.GenerateResource.Cache
+c:\users\gostw\onedrive\документы\visual studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC connection.exe
+c:\users\gostw\onedrive\документы\visual studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC connection.pdb
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC_connection.TBCconnection.resources
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Debug\TBC connection.exe.manifest
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Debug\TBC connection.application
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC connection.exe.manifest
+C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC connection.application
