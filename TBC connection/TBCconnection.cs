@@ -66,7 +66,7 @@ namespace TBC_connection
                     UpdateNile(Nile);
                     UpdateYangtze(Yangtze);
                     counter++;
-                    Thread.Sleep(15000);
+                    Thread.Sleep(30000);
                 }
                 UpdateProgressBar(repeat);
             }));
