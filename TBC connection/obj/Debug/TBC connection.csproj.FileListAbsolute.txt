@@ -10,3 +10,6 @@ C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC conne
 C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\bin\Debug\TBC connection.application
 C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC connection.exe.manifest
 C:\Users\gostw\OneDrive\Документы\Visual Studio 2015\Projects\TBC connection\TBC connection\obj\Debug\TBC connection.application
+C:\Users\gostw\Source\Repos\PlayTBC\TBC connection\bin\Debug\TBC connection.exe.config
+C:\Users\gostw\Source\Repos\PlayTBC\TBC connection\obj\Debug\TBC connection.exe
+C:\Users\gostw\Source\Repos\PlayTBC\TBC connection\obj\Debug\TBC connection.pdb
